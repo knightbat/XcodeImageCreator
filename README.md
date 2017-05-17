@@ -3,12 +3,25 @@
 
 A Simple Bash Script to generate image assets for Xcode projects and place it in to appropriate locations.
 
-## Installation
-
-* clone this repo 
+## Prerequisites
+You need install [ImageMagick](https://www.imagemagick.org), [jq](https://github.com/stedolan/jq) and [rename](http://plasmasturm.org/code/rename/) via [Homebrew](https://brew.sh/)
 
 ```bash
-    git https://github.com/knightbat/KBDrawingView.git 
+  brew install imagemagick
+```
+```bash
+  brew install jq
+```
+```bash
+  brew install rename
+```
+
+## Installation
+
+* clone this repo
+
+```bash
+    git https://github.com/knightbat/KBDrawingView.git
 ```
 * cd to path
 
