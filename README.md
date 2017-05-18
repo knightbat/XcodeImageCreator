@@ -21,7 +21,7 @@ You need install [ImageMagick](https://www.imagemagick.org), [jq](https://github
 * clone this repo
 
 ```bash
-    git https://github.com/knightbat/KBDrawingView.git
+    git https://github.com/knightbat/XcodeImageCreator.git
 ```
 * cd to path
 
